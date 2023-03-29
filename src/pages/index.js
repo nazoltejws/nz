@@ -19,6 +19,7 @@ const IndexPage = ({ data }) => {
                         placeholder="blurred"
                         loading="eager"
                         fit="cover"
+                        quality={100}
                         src="../assets/heror.png"
                         alt="samochód retro z otwarta maską"
                     />
