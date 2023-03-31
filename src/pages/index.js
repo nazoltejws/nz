@@ -33,7 +33,7 @@ const IndexPage = ({ data }) => {
                         data-sal-easing="ease"
                         className=" tshadow text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-semibold text-white"
                     >
-                        REJESTRACJA POJAZÓW 
+                        REJESTRACJA POJAZÓW !
                     </h1>
                     <h2
                         data-sal="slide-right"
