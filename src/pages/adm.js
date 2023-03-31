@@ -37,12 +37,6 @@ const Admin = () => (
                 >
                     CMS Edytor
                 </Link>
-                <Link
-                    to="https://github.com/nazoltej1/n/actions/workflows/gatsby.yml"
-                    className="btn text-center mx-4 mb-4 md:mb-0"
-                >
-                    Zatwierdz zmiany
-                </Link>
             </div>
         </section>
     </Layout>
