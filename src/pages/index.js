@@ -164,7 +164,7 @@ const IndexPage = ({ data }) => {
             ))}
             {allDatoCmsS2.edges.map(({ node }) => (
                 <section className="pt-6 md:pt-8 lg:pt-24">
-                    <h5 className="text-sm text-yellow-500 tracking-widest font-medium title-font mb-1">REJESTRACJA POJAZÓW</h5>
+                    <h5 className="mx-auto text-center text-sm text-yellow-500 tracking-widest font-medium title-font mb-1">Rejestracja zabytków na żółte tablice</h5>
                     <h3
                         data-sal="slide-up"
                         data-sal-delay="0"
@@ -256,6 +256,7 @@ const IndexPage = ({ data }) => {
                             />
                         </div>
                         <div className="w-full lg:w-1/3 px-2 text-white ml-4">
+                        <h5 className="mx-auto text-center text-sm text-yellow-500 tracking-widest font-medium title-font mb-1">Rejestracja pojazdów</h5>
                             <h4
                                 data-sal="slide-down"
                                 data-sal-delay="0"
