@@ -256,7 +256,7 @@ const IndexPage = ({ data }) => {
                             />
                         </div>
                         <div className="w-full lg:w-1/3 px-2 text-white ml-4">
-                        <h5 className="mx-auto text-center text-sm text-yellow-500 tracking-widest font-medium title-font mb-1">Rejestracja pojazdów</h5>
+                        <h5 className="text-sm text-yellow-500 tracking-widest font-medium title-font mb-1">Rejestracja pojazdów</h5>
                             <h4
                                 data-sal="slide-down"
                                 data-sal-delay="0"
