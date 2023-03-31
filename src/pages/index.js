@@ -33,7 +33,7 @@ const IndexPage = ({ data }) => {
                         data-sal-easing="ease"
                         className=" tshadow text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-semibold text-white"
                     >
-                        REJESTRACJA POJAZÓW
+                        REJESTRACJA POJAZÓW 
                     </h1>
                     <h2
                         data-sal="slide-right"
@@ -164,6 +164,7 @@ const IndexPage = ({ data }) => {
             ))}
             {allDatoCmsS2.edges.map(({ node }) => (
                 <section className="pt-6 md:pt-8 lg:pt-24">
+                    <h5 className="text-sm text-yellow-500 tracking-widest font-medium title-font mb-1">REJESTRACJA POJAZÓW</h5>
                     <h3
                         data-sal="slide-up"
                         data-sal-delay="0"
