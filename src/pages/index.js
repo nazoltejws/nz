@@ -40,7 +40,7 @@ const IndexPage = ({ data }) => {
                         data-sal-delay="600"
                         data-sal-duration="600"
                         data-sal-easing="ease"
-                        className=" tshadow text-2xl sm:text-3xl md:text-4xl lg:text-5xl ml-[20%] font-semibold mb-12 text-amber-300"
+                        className=" tshadow text-2xl sm:text-3xl md:text-4xl lg:text-5xl ml-[10%] font-semibold mb-12 text-amber-300"
                     >
                         żółte tablice rejestracyjne
                     </h2>
