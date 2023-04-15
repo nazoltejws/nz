@@ -58,7 +58,7 @@ const Header = () => {
                         <StaticImage
                             loading="eager"
                             className="h-auto w-44"
-                            alt="logo"
+                            alt="logo zółte rejestracje"
                             src="../assets/logo.png"
                         />
                     </Link>
