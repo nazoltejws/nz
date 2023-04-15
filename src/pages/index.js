@@ -42,7 +42,7 @@ const IndexPage = ({ data }) => {
                         data-sal-easing="ease"
                         className=" tshadow text-2xl sm:text-3xl md:text-4xl lg:text-5xl ml-[20%] font-semibold mb-12 text-amber-300"
                     >
-                        na żółte tablice
+                        żółte tablice rejestracyjne
                     </h2>
                     <div
                         data-sal="slide-left"
