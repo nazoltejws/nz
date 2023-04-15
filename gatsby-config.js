@@ -3,8 +3,8 @@
  */
 module.exports = {
     siteMetadata: {
-        title: `Żółte tablice | Rzeczoznawca Samochodowy`,
-        description: `Pełna dokumentacja, opinie rzeczoznawcy, Kiedy zabytkowe auta i motocykle mogą mieć żółte tablice rejestracyjne, Rzeczoznawca Samochodowy`,
+        title: `Rejestracja pojazdów na żółte tablice Warszawa`,
+        description: `Rejestracja pojazdów. Pełna dokumentacja, opinie rzeczoznawcy, Kiedy zabytkowe auta i motocykle mogą mieć żółte tablice rejestracyjne`,
         author: `Seovileo`,
         siteUrl: `https://seovileo.pl/`,
     },
