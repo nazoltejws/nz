@@ -33,16 +33,16 @@ const IndexPage = ({ data }) => {
                         data-sal-easing="ease"
                         className=" tshadow text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-semibold text-white"
                     >
-                        Rzeczoznawca Samochodowy
+                        REJESTRACJA POJAZDÓW!
                     </h1>
                     <h2
                         data-sal="slide-right"
                         data-sal-delay="600"
                         data-sal-duration="600"
                         data-sal-easing="ease"
-                        className=" tshadow text-2xl sm:text-3xl md:text-4xl lg:text-5xl ml-[10%] font-semibold mb-12 text-amber-300"
+                        className=" tshadow text-2xl sm:text-3xl md:text-4xl lg:text-5xl ml-[20%] font-semibold mb-12 text-amber-300"
                     >
-                        żółte tablice rejestracyjne
+                        na żółte tablice
                     </h2>
                     <div
                         data-sal="slide-left"
