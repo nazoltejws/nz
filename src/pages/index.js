@@ -433,6 +433,63 @@ const IndexPage = ({ data }) => {
                     </div>
                 </div>
             </section>
+            <section className="text-yellow-400 bg-[#1b1b1b] flex flex-col items-start px-6 py-6 mt-6 justify-center">
+                <div className="max-w-screen-lg mx-auto">
+                <h2 className=" capitalize text-2xl md:text-3xl mb-4">rzeczoznawca samochodowy</h2>
+                <p className="mb-4 text-gray-100">Jesteśmy specjalistami w dziedzinie oceny stanu technicznego pojazdów i szacowania ich wartości. Jako rzeczoznawcy samochodowi posiadamy niezbędne kwalifikacje i licencje, które pozwalają nam na rzetelną i wiarygodną ocenę każdego typu pojazdu.</p>
+                <p className="mb-4 text-gray-100">Nasze usługi są skierowane do osób, które potrzebują pomocy w związku z wypadkiem drogowym, szukają informacji na temat wartości auta przed zakupem lub potrzebują innej formy pomocy w związku z pojazdem.</p>
+                <p className="mb-4 text-gray-100">W przypadku wypadku drogowego, jesteśmy w stanie pomóc w ustaleniu wartości szkody, która została wyrządzona, a także ocenić, czy naprawa pojazdu jest opłacalna. Dzięki naszym usługom, klienci mogą mieć pewność, że uzyskają kompleksową i rzetelną pomoc w trudnej sytuacji.</p>
+                <p className="mb-4 text-gray-100">Oprócz wypadków drogowych, oferujemy także usługi związane z oceną wartości aut przed zakupem. Nasza wiedza i doświadczenie pozwala nam na dokładne oszacowanie wartości każdego pojazdu, co pozwala naszym klientom na dokonanie mądrego wyboru przed zakupem.</p>
+                <p className="mb-4 text-gray-100">Jeśli potrzebujesz pomocy w związku z Twoim pojazdem, skontaktuj się z nami. Jako rzeczoznawcy samochodowi, jesteśmy gotowi służyć pomocą w każdej sytuacji związanej z Twoim pojazdem.</p>
+                </div>
+            </section>
+
+            <section className="text-yellow-400 bg-[#141212] flex flex-col items-start px-6 py-6 justify-center">
+                <div className="max-w-screen-lg mx-auto">
+                <h2 className=" capitalize text-2xl md:text-3xl mb-4">żółte tablice rejestracyjne</h2>
+                <p className="mb-4 text-gray-100">Żółte tablice rejestracyjne to specjalny rodzaj tablic, które stosowane są przez pojazdy o ograniczonej prędkości. Zazwyczaj są one stosowane przez maszyny rolnicze, pojazdy budowlane oraz wózki widłowe. Ich wykorzystanie jest uregulowane przepisami prawa i zależy od specyfiki danego pojazdu.</p>
+                <p className="mb-4 text-gray-100">Jeśli poszukujesz żółtych tablic rejestracyjnych dla Twojego pojazdu, to dobrze trafiłeś. Oferujemy naszym klientom żółte tablice rejestracyjne w najlepszej jakości, zgodne z wymaganiami przepisów prawa. W naszej ofercie znajdziesz tablice o różnych wymiarach oraz o różnej specyfice, dostosowane do różnego typu pojazdów.</p>
+                <p className="mb-4 text-gray-100">Dlaczego warto zdecydować się na żółte tablice rejestracyjne? Przede wszystkim, ich wykorzystanie pozwala na legalne poruszanie się po drogach publicznych. Ograniczone prędkości, jakie charakteryzują te pojazdy, wymagają stosowania specjalnych oznaczeń rejestracyjnych. Dzięki nim, inni uczestnicy ruchu drogowego są świadomi specyfiki danego pojazdu i dostosowują swoje zachowanie na drodze.</p>
+                <p className="mb-4 text-gray-100">Jeśli potrzebujesz żółtych tablic rejestracyjnych dla swojego pojazdu, skontaktuj się z nami. Jako specjaliści w tej dziedzinie, z przyjemnością pomożemy Ci wybrać odpowiednie tablice i dostarczymy je w najlepszej jakości.</p>
+                </div>
+            </section>
+            <section className="text-yellow-400 bg-[#1b1b1b] flex flex-col items-start px-6 py-6 justify-center">
+                {/*
+                <h2>rzeczoznawca samochodowy warszawa</h2>
+                <h2>rzeczoznawca samochodowy kraków</h2>
+
+                <h2>rejestracja na zabytek</h2>
+                <h2>zabytek samochód</h2>
+                <h2>pojazdy zabytkowe</h2> */}
+
+                <div className="max-w-screen-lg mx-auto">
+                <h2 className=" capitalize text-2xl md:text-3xl mb-4">auto zabytkowe</h2>
+                <p className="mb-4 text-gray-100">Jeśli jesteś właścicielem auta zabytkowego, wiesz jak ważne jest jego odpowiednie utrzymanie i rejestracja. W Polsce istnieją specjalne przepisy, które regulują warunki rejestracji pojazdów zabytkowych na żółte tablice rejestracyjne. Właśnie dlatego, warto zwrócić się o pomoc do specjalistów, którzy pomogą Ci w przeprowadzeniu tej procedury.</p>
+                <p className="mb-4 text-gray-100">Nasza firma oferuje kompleksowe usługi rejestracji pojazdów zabytkowych na żółte tablice rejestracyjne. Jako specjaliści w tej dziedzinie, wiemy jakie wymagania stawiają przed nami takie pojazdy. Dlatego oferujemy nie tylko pomoc w zakresie formalności związanych z rejestracją, ale także doradztwo w zakresie dbania o auto zabytkowe.</p>
+                <p className="mb-4 text-gray-100">Jeśli chcesz zarejestrować swoje auto zabytkowe na żółte tablice rejestracyjne, musisz spełnić określone wymagania techniczne, co zapewni bezpieczeństwo na drodze. Nasza firma pomoże Ci w dopełnieniu wszelkich formalności oraz zapewni pełną obsługę w zakresie rejestracji pojazdu.</p>
+                <p className="mb-4 text-gray-100">Jeśli potrzebujesz pomocy w rejestracji swojego pojazdu zabytkowego na żółte tablice rejestracyjne, skontaktuj się z nami. Jako specjaliści w tej dziedzinie, pomożemy Ci w dopełnieniu wszelkich formalności oraz zapewnimy pełną obsługę w zakresie rejestracji pojazdu.</p>
+                </div>
+            </section>
+
+            <section className="text-yellow-400 bg-[#141212] flex flex-col items-start px-6 py-6 justify-center">
+                {/*
+                <h2>rzeczoznawca samochodowy warszawa</h2>
+                <h2>rzeczoznawca samochodowy kraków</h2>
+
+                <h2>rejestracja na zabytek</h2>
+                <h2>zabytek samochód</h2>
+                <h2>pojazdy zabytkowe</h2> */}
+
+                <div className="max-w-screen-lg mx-auto">
+                <h2 className=" capitalize text-2xl md:text-3xl mb-4">rejestracja na zabytek</h2>
+                <p className="mb-4 text-gray-100">Rejestracja pojazdu na zabytek to ważny krok dla każdego miłośnika motoryzacji. W Polsce istnieją specjalne przepisy, które regulują rejestrację pojazdów zabytkowych na żółte tablice rejestracyjne. Jeśli chcesz zarejestrować swój zabytek samochód na te tablice, warto zwrócić się o pomoc do specjalistów w tej dziedzinie.</p>
+                <p className="mb-4 text-gray-100">Nasza firma oferuje kompleksowe usługi rejestracji pojazdów zabytkowych. Jako specjaliści w tej dziedzinie, wiemy jakie wymagania stawiają przed nami pojazdy zabytkowe. Dlatego oferujemy nie tylko pomoc w zakresie formalności związanych z rejestracją, ale także doradztwo w zakresie dbania o pojazdy zabytkowe.</p>
+                <p className="mb-4 text-gray-100">Rejestracja pojazdów zabytkowych na żółte tablice rejestracyjne to nie tylko wymagane formalności. Jest to również ważny krok dla zachowania i ochrony dziedzictwa kulturowego. Zabytkowe pojazdy stanowią nie tylko element historii motoryzacji, ale także przyciągają uwagę wielu miłośników starych samochodów.</p>
+                <p className="mb-4 text-gray-100">Jeśli chcesz zarejestrować swój pojazd zabytkowy na żółte tablice rejestracyjne, skontaktuj się z nami. Oferujemy pełną obsługę w zakresie rejestracji pojazdów zabytkowych. Nasza firma pomoże Ci w dopełnieniu wszelkich formalności oraz zapewni fachowe doradztwo w zakresie dbania o pojazdy zabytkowe.</p>
+                <p className="mb-4 text-gray-100">Pamiętaj, że pojazdy zabytkowe wymagają specjalnej troski i uwagi, aby zachować ich oryginalność i wartość kulturową. Dlatego warto zwrócić się o pomoc do specjalistów w tej dziedzinie, którzy pomogą Ci w rejestracji pojazdu na zabytek oraz w dalszej jego pielęgnacji.</p>
+                <p className="mb-4 text-gray-100">Jeśli interesuje Cię rejestracja pojazdu na zabytek, skontaktuj się z nami. Nasza firma oferuje kompleksowe usługi w zakresie rejestracji pojazdów zabytkowych na żółte tablice rejestracyjne. Działamy profesjonalnie i fachowo, aby zapewnić Ci satysfakcję z naszych usług.</p>
+                </div>
+            </section>
         </Layout>
     );
 };
