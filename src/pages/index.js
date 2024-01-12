@@ -238,8 +238,8 @@ const IndexPage = ({ data }) => {
             ))}
 
             {allDatoCmsS3.edges.map(({ node }) => (
-                <section className="relative py-6 md:py-8 lg:py-24">
-                    <div className="absolute opacity-100 max-w-[2000px] -z-30 min-h-[40rem] w-full h-full max-h-[55rem]">
+                <section className="relative py-6 md:py-8 lg:py-32">
+                    <div className="absolute opacity-100 max-w-[2000px] -z-30 min-h-[40rem] w-full h-full">
                         <StaticImage
                             className="absolute opacity-90 top-0 -z-30 min-h-[40rem] h-full w-full object-center object-cover"
                             placeholder="blurred"
@@ -247,7 +247,7 @@ const IndexPage = ({ data }) => {
                             alt="tło dokumenty"
                         />
                     </div>
-                    <div className="flex items-center justify-center flex-col lg:flex-row">
+                    <div className="flex items-start justify-center flex-col lg:flex-row">
                         <div className="w-full py-6 md:py-8 lg:py-24 lg:w-1/4 h-auto object-contain origin-center mb-4 relative">
                             <StaticImage
                                 className="w-full h-full"
@@ -255,7 +255,7 @@ const IndexPage = ({ data }) => {
                                 src="../assets/carRedAndYellow.png"
                             />
                         </div>
-                        <div className="w-full lg:w-1/3 px-2 text-white ml-4">
+                        <div className="w-full lg:w-1/3 px-2 text-white ml-4 lg:ml-12">
                         <h5 className="text-sm text-yellow-500 tracking-widest font-medium title-font mb-1">Rejestracja pojazdów</h5>
                             <h4
                                 data-sal="slide-down"
