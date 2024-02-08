@@ -21,7 +21,7 @@ const IndexPage = ({ data }) => {
                         fit="cover"
                         quality={100}
                         src="../assets/heror.png"
-                        alt="samochód retro z otwarta maską"
+                        alt="samochód retro z otwarta maską "
                     />
                 </div>
 
