@@ -5,29 +5,29 @@
   X-XSS-Protection: 1; mode=block
   X-Content-Type-Options: nosniff
   Referrer-Policy: same-origin
-/commons-920482fe9290d0390bca.js
+/commons-cccfde69e75aa0133b95.js
   Cache-Control: public, max-age=31536000, immutable
 /component---src-pages-404-js-292cd5bd9de3e02e4250.js
   Cache-Control: public, max-age=31536000, immutable
-/component---src-pages-adm-js-4789674120f0dd3fa876.js
+/component---src-pages-adm-js-61e3c6ad33234d8106ae.js
   Cache-Control: public, max-age=31536000, immutable
-/component---src-pages-dziekujemy-js-2c3b94a94cc0a134e9a7.js
+/component---src-pages-dziekujemy-js-54bfee259bea89182329.js
   Cache-Control: public, max-age=31536000, immutable
-/component---src-pages-fakty-mity-js-a77070404b84a4478dab.js
+/component---src-pages-fakty-mity-js-15e38efb61d5bf5aceb9.js
   Cache-Control: public, max-age=31536000, immutable
-/component---src-pages-index-js-9fec5bb37bb247d02444.js
+/component---src-pages-index-js-9afc1ec94ed73c48c423.js
   Cache-Control: public, max-age=31536000, immutable
-/component---src-pages-kontakt-js-ed16faa29b6ff949e6d6.js
+/component---src-pages-kontakt-js-19a0526299bd55432008.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-oferta-js-b5d2fd517c7f7ff76cfa.js
   Cache-Control: public, max-age=31536000, immutable
 /component---src-pages-o-nas-js-1285c603407b09092f1e.js
   Cache-Control: public, max-age=31536000, immutable
-/component---src-pages-oferta-js-e6003cecbbf1d4014a60.js
-  Cache-Control: public, max-age=31536000, immutable
-/webpack-runtime-f09887d60ec073617b81.js
+/webpack-runtime-b47aab14738e4c2c6416.js
   Cache-Control: public, max-age=31536000, immutable
 /framework-6a525285796fb83f2864.js
   Cache-Control: public, max-age=31536000, immutable
-/styles.752258de9e975b7e1b4d.css
+/styles.855a518e22a6ff1b8f45.css
   Cache-Control: public, max-age=31536000, immutable
 /app-5d02651d4799f749fa4b.js
   Cache-Control: public, max-age=31536000, immutable
